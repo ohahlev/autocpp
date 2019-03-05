@@ -1,4 +1,4 @@
-Automake-Autoconf-Template-Project
+AUTOCPP
 ==================================
 
 Automake Autoconf Template Project for "Automake C++ Tutorial"
